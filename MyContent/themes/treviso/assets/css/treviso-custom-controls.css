@@ -1,0 +1,30 @@
+/* ==========================================================================
+Custom Controls SCSS
+========================================================================== */
+/* Select 2 */
+.wp-customizer .select2-container .select2-selection {
+  font-size: 14px;
+  color: #2c3338;
+  border-color: #8c8f94;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  border-radius: 3px;
+  padding: 0 24px 0 8px;
+  min-height: 30px;
+  max-width: 25rem;
+  cursor: pointer;
+  vertical-align: middle; }
+
+.wp-customizer .select2-container.select2-container--focus .select2-selection {
+  border-color: #2271b1;
+  color: #0a4b78;
+  -webkit-box-shadow: 0 0 0 1px #2271b1;
+          box-shadow: 0 0 0 1px #2271b1; }
+
+.wp-customizer .select2-container .select2-dropdown {
+  z-index: 900000; }
+
+.wp-customizer .select2-container--default .select2-selection--single .select2-selection__clear {
+  margin-right: 2px; }
+
+/*# sourceMappingURL=treviso-custom-controls.css.map */

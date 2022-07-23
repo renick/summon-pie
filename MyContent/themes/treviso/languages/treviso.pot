@@ -1,0 +1,538 @@
+# Copyright (C) 2021 treviso
+# This file is distributed under the same license as the treviso package.
+msgid ""
+msgstr ""
+"Project-Id-Version: treviso\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: JB Software <info@jbsoftware.ca>\n"
+"Last-Translator: Jason Bertolo <jason@jbsoftware.ca>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid "Try searching or clicking one of the links below."
+msgstr ""
+
+#: 404.php:34
+msgid "Recent Posts"
+msgstr ""
+
+#: 404.php:59
+msgid "Monthly Archives"
+msgstr ""
+
+#: 404.php:72
+msgid "Popular Categories"
+msgstr ""
+
+#: archive.php:50, search.php:49, template-parts/content-none.php:61, template-parts/content-none.php:42
+msgid "Select Category"
+msgstr ""
+
+#: comments.php:39
+msgid "Leave a reply"
+msgstr ""
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:53, inc/template-tags.php:664, inc/template-tags.php:669
+msgid "Back to top"
+msgstr ""
+
+#: functions.php:30
+msgid "Navbar Start"
+msgstr ""
+
+#: functions.php:31
+msgid "Navbar End"
+msgstr ""
+
+#: functions.php:32, inc/customizer.php:671
+msgid "Footer"
+msgstr ""
+
+#: functions.php:33
+msgid "Copyright"
+msgstr ""
+
+#: functions.php:177
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:179
+msgid "Add widgets here."
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:28
+msgid "Main Navigation"
+msgstr ""
+
+#: header.php:30
+msgid "Home"
+msgstr ""
+
+#: header.php:38
+msgid "Menu"
+msgstr ""
+
+#: inc/class-treviso-walker-footer-menu.php:198, inc/class-treviso-walker-nav-menu.php:312
+msgid "Read more"
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "Meta Color"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer.php:82
+msgid "Hero Text Color"
+msgstr ""
+
+#: inc/customizer.php:102
+msgid "Sidebar Background Color"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "Content Primary Color"
+msgstr ""
+
+#: inc/customizer.php:140
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer.php:159
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/customizer.php:169
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer.php:188
+msgid "Body Font"
+msgstr ""
+
+#: inc/customizer.php:189
+msgid "Select which fonts to affect body text."
+msgstr ""
+
+#: inc/customizer.php:207, inc/customizer.php:295
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer.php:224, inc/customizer.php:312
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer.php:226, inc/customizer.php:314
+msgid "100"
+msgstr ""
+
+#: inc/customizer.php:227, inc/customizer.php:315
+msgid "200"
+msgstr ""
+
+#: inc/customizer.php:228, inc/customizer.php:316
+msgid "300"
+msgstr ""
+
+#: inc/customizer.php:229, inc/customizer.php:317
+msgid "400"
+msgstr ""
+
+#: inc/customizer.php:230, inc/customizer.php:318
+msgid "500"
+msgstr ""
+
+#: inc/customizer.php:231, inc/customizer.php:319
+msgid "600"
+msgstr ""
+
+#: inc/customizer.php:232, inc/customizer.php:320
+msgid "700"
+msgstr ""
+
+#: inc/customizer.php:233, inc/customizer.php:321
+msgid "800"
+msgstr ""
+
+#: inc/customizer.php:234, inc/customizer.php:322
+msgid "900"
+msgstr ""
+
+#: inc/customizer.php:235, inc/customizer.php:256, inc/customizer.php:323, inc/customizer.php:344
+msgid "Normal"
+msgstr ""
+
+#: inc/customizer.php:236, inc/customizer.php:324
+msgid "Bold"
+msgstr ""
+
+#: inc/customizer.php:254, inc/customizer.php:342
+msgid "Font Style"
+msgstr ""
+
+#: inc/customizer.php:257, inc/customizer.php:345
+msgid "Italic"
+msgstr ""
+
+#: inc/customizer.php:276
+msgid "Header Font"
+msgstr ""
+
+#: inc/customizer.php:277
+msgid "Select which fonts to affect header text."
+msgstr ""
+
+#: inc/customizer.php:354
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:372
+msgid "Fixed Header"
+msgstr ""
+
+#: inc/customizer.php:373
+msgid "Enable a fixed header at the top of the screen."
+msgstr ""
+
+#: inc/customizer.php:390
+msgid "Transparent Header"
+msgstr ""
+
+#: inc/customizer.php:391
+msgid "Enable a transparent header."
+msgstr ""
+
+#: inc/customizer.php:408
+msgid "Post/page IDs to exclude from the Transparent Header setting above. Use negative numbers for categories. Comma separated values."
+msgstr ""
+
+#: inc/customizer.php:426
+msgid "Singular Pages Only"
+msgstr ""
+
+#: inc/customizer.php:427
+msgid "Apply the Transparent Header setting above to singular pages only."
+msgstr ""
+
+#: inc/customizer.php:445
+msgid "Disable Header"
+msgstr ""
+
+#: inc/customizer.php:446
+msgid "Prevent output of the header."
+msgstr ""
+
+#: inc/customizer.php:454
+msgid "Content"
+msgstr ""
+
+#: inc/customizer.php:472, inc/elementor.php:25, inc/elementor.php:80
+msgid "Hero Section"
+msgstr ""
+
+#: inc/customizer.php:473
+msgid "Enable a hero section with a featured image, title, excerpt and category tags."
+msgstr ""
+
+#: inc/customizer.php:491
+msgid "Hero Parallax Image"
+msgstr ""
+
+#: inc/customizer.php:492
+msgid "Enable a parallax effect for the Hero Section setting above."
+msgstr ""
+
+#: inc/customizer.php:510
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/customizer.php:511
+msgid "Include breadcrumbs at the top of singular posts."
+msgstr ""
+
+#: inc/customizer.php:529
+msgid "Sidebar Location"
+msgstr ""
+
+#: inc/customizer.php:530
+msgid "Choose where to display the sidebar."
+msgstr ""
+
+#: inc/customizer.php:532
+msgid "Disabled"
+msgstr ""
+
+#: inc/customizer.php:533, inc/elementor.php:40
+msgid "Left"
+msgstr ""
+
+#: inc/customizer.php:534, inc/elementor.php:48
+msgid "Right"
+msgstr ""
+
+#: inc/customizer.php:552
+msgid "Post Tags"
+msgstr ""
+
+#: inc/customizer.php:553
+msgid "Show post tags at the bottom of posts."
+msgstr ""
+
+#: inc/customizer.php:572
+msgid "Social Buttons"
+msgstr ""
+
+#: inc/customizer.php:573
+msgid "Select which social buttons to display on a post."
+msgstr ""
+
+#: inc/customizer.php:593
+msgid "Choose where to display the social buttons for a post."
+msgstr ""
+
+#: inc/customizer.php:595
+msgid "Top & Bottom"
+msgstr ""
+
+#: inc/customizer.php:596
+msgid "Top"
+msgstr ""
+
+#: inc/customizer.php:597
+msgid "Bottom"
+msgstr ""
+
+#: inc/customizer.php:617
+msgid "Add some styling to social buttons."
+msgstr ""
+
+#: inc/customizer.php:619
+msgid "Rounded"
+msgstr ""
+
+#: inc/customizer.php:620
+msgid "Outlined"
+msgstr ""
+
+#: inc/customizer.php:621
+msgid "Shadow"
+msgstr ""
+
+#: inc/customizer.php:622
+msgid "Label"
+msgstr ""
+
+#: inc/customizer.php:623
+msgid "Medium Size"
+msgstr ""
+
+#: inc/customizer.php:643
+msgid "Post Navigation"
+msgstr ""
+
+#: inc/customizer.php:644
+msgid "Show previous and next post links."
+msgstr ""
+
+#: inc/customizer.php:662
+msgid "Disable Containers"
+msgstr ""
+
+#: inc/customizer.php:663
+msgid "Remove containers for some page builders."
+msgstr ""
+
+#: inc/customizer.php:689
+msgid "Footer Background Image"
+msgstr ""
+
+#: inc/customizer.php:707
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:709
+msgid "Enter a company name, author or any arbitrary text."
+msgstr ""
+
+#: inc/customizer.php:726
+msgid "Disable Footer"
+msgstr ""
+
+#: inc/customizer.php:727
+msgid "Prevent output of the footer."
+msgstr ""
+
+#: inc/customizer.php:735
+msgid "Misc"
+msgstr ""
+
+#: inc/customizer.php:753
+msgid "Back To Top Image"
+msgstr ""
+
+#: inc/customizer.php:772
+msgid "Search Exclusions"
+msgstr ""
+
+#: inc/customizer.php:773
+msgid "Post/page IDs to exclude from search. Use negative numbers for categories. Comma separated values."
+msgstr ""
+
+#: inc/customizer.php:790
+msgid "Disable Media Comments"
+msgstr ""
+
+#: inc/customizer.php:791
+msgid "Prevent comments on media files."
+msgstr ""
+
+#: inc/elementor.php:36
+msgid "Alignment"
+msgstr ""
+
+#: inc/elementor.php:44
+msgid "Center"
+msgstr ""
+
+#: inc/elementor.php:52
+msgid "Justified"
+msgstr ""
+
+#: inc/elementor.php:91
+msgid "Text Color"
+msgstr ""
+
+#: inc/template-functions.php:319
+msgid "Checkout this post: "
+msgstr ""
+
+#. translators: %s: category
+#. translators: %s: post category
+#. translators: %s: category
+#: inc/template-tags.php:59, inc/template-tags.php:151, inc/template-tags.php:281
+msgid "View all posts in %s"
+msgstr ""
+
+#: inc/template-tags.php:98
+msgid "All rights reserved"
+msgstr ""
+
+#: inc/template-tags.php:95
+msgid "Powered by Treviso WordPress Theme"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:175
+msgid "Leave comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:198
+msgid "View Post"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:207, template-parts/content-page.php:42
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/template-tags.php:351
+msgid "Blog Archives"
+msgstr ""
+
+#: inc/template-tags.php:349
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:347
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#. translators: 1: date and time(s).
+#: inc/template-tags.php:561
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:606
+msgid "Comment"
+msgstr ""
+
+#: inc/template-tags.php:620
+msgid "Name"
+msgstr ""
+
+#: inc/template-tags.php:627
+msgid "Email"
+msgstr ""
+
+#: inc/template-tags.php:634
+msgid "Website"
+msgstr ""
+
+#: inc/template-tags.php:643
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:34
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:18
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:68
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-none.php:49
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-page.php:28, template-parts/content.php:60
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-search.php:24, template-parts/content.php:96
+msgid "Featured"
+msgstr ""
+
+#: template-parts/content.php:23
+msgid " on "
+msgstr ""
+
+#: template-parts/content.php:47
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""

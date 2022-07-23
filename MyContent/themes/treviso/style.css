@@ -1,0 +1,17 @@
+/*!
+Theme Name: Treviso
+Theme URI: https://jbsoftware.ca/treviso-wordpress-theme
+Author: Jason Bertolo
+Author URI: https://jbsoftware.ca
+Description: Treviso is a blazing-fast, light-weight WordPress theme based on the Bulma CSS Framework. No bloated and slow framework javascript, only what's needed is loaded. Treviso comes with plenty of options in the Customizer along with Google fonts, packaged Font-Awesome Free and social media share link buttons. Includes optional mega menu header, fixed/transparent header options. Multi-post pages use a Masonry design and single posts can configured with a Hero section. Mobile first, responsive and SEO ready.
+Version: 1.0.3
+Requires at least: 5.2
+Tested up to: 5.7
+Requires PHP: 5.6
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/license-list.html#GPLv2
+Text Domain: treviso
+Tags: custom-background, custom-logo, custom-menu, custom-colors, right-sidebar, left-sidebar, grid-layout, custom-header, flexible-header, featured-image-header, featured-images, full-width-template, sticky-post, threaded-comments, translation-ready, blog, photography, portfolio
+*/
+
+/* Note: The CSS files are loaded from assets/css/ folder. */
